@@ -1,6 +1,6 @@
 <template>
     <div>
-        <router-view></router-view>
+        我是一级错误组件
     </div>
 </template>
 

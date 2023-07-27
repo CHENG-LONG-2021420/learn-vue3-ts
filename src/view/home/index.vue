@@ -1,6 +1,6 @@
 <template>
     <div>
-        <router-view></router-view>
+        我是一级主页组件
     </div>
 </template>
 
